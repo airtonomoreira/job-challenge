@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qi4VCF1eLoIdth+ZLyRDWe/cX10WxWjoT8pxxd+kRTpbJMYGshXIIRCyeDueKQffnvnQfof752T4R2hVy+BDKw==",
+  "success": true,
+  "projectFilePath": "/home/airton/Desktop/Employee/backend/Api.Domain/Api.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/airton/.nuget/packages/automapper/12.0.1/automapper.12.0.1.nupkg.sha512",
+    "/home/airton/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
+    "/home/airton/.nuget/packages/microsoft.entityframeworkcore/8.0.12/microsoft.entityframeworkcore.8.0.12.nupkg.sha512",
+    "/home/airton/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.12/microsoft.entityframeworkcore.abstractions.8.0.12.nupkg.sha512",
+    "/home/airton/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.12/microsoft.entityframeworkcore.analyzers.8.0.12.nupkg.sha512",
+    "/home/airton/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
+    "/home/airton/.nuget/packages/microsoft.extensions.caching.memory/8.0.1/microsoft.extensions.caching.memory.8.0.1.nupkg.sha512",
+    "/home/airton/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.1/microsoft.extensions.dependencyinjection.8.0.1.nupkg.sha512",
+    "/home/airton/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.2/microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "/home/airton/.nuget/packages/microsoft.extensions.logging/8.0.1/microsoft.extensions.logging.8.0.1.nupkg.sha512",
+    "/home/airton/.nuget/packages/microsoft.extensions.logging.abstractions/8.0.2/microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "/home/airton/.nuget/packages/microsoft.extensions.options/8.0.2/microsoft.extensions.options.8.0.2.nupkg.sha512",
+    "/home/airton/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

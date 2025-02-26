@@ -1,0 +1,858 @@
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Api.Service.Tests
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.Tests.deps.json
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.Tests.runtimeconfig.json
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.Tests.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.Tests.pdb
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/AutoMapper.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Azure.Core.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Azure.Identity.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Castle.Core.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/DotNetEnv.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/FluentAssertions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Humanizer.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.Cookies.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.Core.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.DataProtection.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Http.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Extensions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Features.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.WebUtilities.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.ObjectPool.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.WebEncoders.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Net.Http.Headers.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/testhost.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Moq.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/MySqlConnector.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Sprache.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.ClientModel.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.CodeDom.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Memory.Data.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.assert.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.core.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Api.CrossCutting.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Data.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Domain.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.pdb
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Domain.pdb
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Data.pdb
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/bin/Debug/net8.0/Api.CrossCutting.pdb
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.csproj.AssemblyReference.cache
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.AssemblyInfoInputs.cache
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.AssemblyInfo.cs
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.csproj.CoreCompileInputs.cache
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.csproj.CopyComplete
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/obj/Debug/net8.0/refint/Api.Service.Tests.dll
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.pdb
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.genruntimeconfig.cache
+/home/airton/git/udemy/ficticia/backend/Api.Service.Tests/obj/Debug/net8.0/ref/Api.Service.Tests.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Api.Service.Tests
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.Tests.deps.json
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.Tests.runtimeconfig.json
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.Tests.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.Tests.pdb
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/AutoMapper.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Azure.Core.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Azure.Identity.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Castle.Core.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/DotNetEnv.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/FluentAssertions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Humanizer.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.Cookies.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.Core.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.DataProtection.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Http.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Extensions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Features.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.WebUtilities.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.ObjectPool.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.WebEncoders.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Net.Http.Headers.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/testhost.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Moq.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/MySqlConnector.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Sprache.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.ClientModel.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.CodeDom.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Memory.Data.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.assert.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.core.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.CrossCutting.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Data.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Domain.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.pdb
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Domain.pdb
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Data.pdb
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.CrossCutting.pdb
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.csproj.AssemblyReference.cache
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.AssemblyInfoInputs.cache
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.AssemblyInfo.cs
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.csproj.CoreCompileInputs.cache
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.csproj.CopyComplete
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/refint/Api.Service.Tests.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.pdb
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.genruntimeconfig.cache
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/ref/Api.Service.Tests.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/CoverletSourceRootsMapping_Api.Service.Tests
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.runner.reporters.netcoreapp10.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.runner.utility.netcoreapp10.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.Tests.deps.json
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.Tests.runtimeconfig.json
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.Tests.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.Tests.pdb
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/AutoMapper.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Azure.Core.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Azure.Identity.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Castle.Core.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/DotNetEnv.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/FluentAssertions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Humanizer.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.Cookies.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.Core.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.DataProtection.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.DataProtection.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Hosting.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Http.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Extensions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Http.Features.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.AspNetCore.WebUtilities.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Data.SqlClient.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Data.Sqlite.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Caching.Memory.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Configuration.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Diagnostics.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.FileProviders.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Hosting.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Identity.Core.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Logging.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.ObjectPool.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Options.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.Primitives.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Extensions.WebEncoders.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Identity.Client.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Net.Http.Headers.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.SqlServer.Server.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CoreUtilities.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.TestPlatform.Utilities.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/testhost.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Microsoft.Win32.SystemEvents.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Moq.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/MySqlConnector.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/NuGet.Frameworks.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Pomelo.EntityFrameworkCore.MySql.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Sprache.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/SQLitePCLRaw.batteries_v2.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/SQLitePCLRaw.core.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.ClientModel.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.CodeDom.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Configuration.ConfigurationManager.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Diagnostics.DiagnosticSource.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Diagnostics.EventLog.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Drawing.Common.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.IO.Pipelines.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Memory.Data.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Runtime.Caching.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Security.Cryptography.ProtectedData.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Security.Cryptography.Xml.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Security.Permissions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/System.Windows.Extensions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.abstractions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.assert.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.core.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/xunit.execution.dotnet.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/browser-wasm/nativeassets/net8.0/e_sqlite3.a
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-arm/native/libe_sqlite3.so
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-armel/native/libe_sqlite3.so
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-x64/native/libe_sqlite3.so
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/linux-x86/native/libe_sqlite3.so
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-arm/native/e_sqlite3.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-arm64/native/e_sqlite3.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-x64/native/e_sqlite3.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net8.0/System.Security.Cryptography.Pkcs.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.CrossCutting.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Data.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Domain.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Service.pdb
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Domain.pdb
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.Data.pdb
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/bin/Debug/net8.0/Api.CrossCutting.pdb
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.csproj.AssemblyReference.cache
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.AssemblyInfoInputs.cache
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.AssemblyInfo.cs
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.csproj.CoreCompileInputs.cache
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.csproj.CopyComplete
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/refint/Api.Service.Tests.dll
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.pdb
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/Api.Service.Tests.genruntimeconfig.cache
+/home/airton/Desktop/Employee/backend/Api.Service.Tests/obj/Debug/net8.0/ref/Api.Service.Tests.dll

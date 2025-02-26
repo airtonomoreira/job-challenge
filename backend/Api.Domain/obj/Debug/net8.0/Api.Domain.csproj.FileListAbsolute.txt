@@ -1,0 +1,48 @@
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.Domain/bin/Debug/net8.0/Api.Domain.deps.json
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.Domain/bin/Debug/net8.0/Api.Domain.dll
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.Domain/bin/Debug/net8.0/Api.Domain.pdb
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.csproj.AssemblyReference.cache
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.AssemblyInfoInputs.cache
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.AssemblyInfo.cs
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.csproj.CoreCompileInputs.cache
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.dll
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.Domain/obj/Debug/net8.0/refint/Api.Domain.dll
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.pdb
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.Domain/obj/Debug/net8.0/ref/Api.Domain.dll
+/home/airton/git/udemy/ficticia/backend/Api.Domain/bin/Debug/net8.0/Api.Domain.deps.json
+/home/airton/git/udemy/ficticia/backend/Api.Domain/bin/Debug/net8.0/Api.Domain.dll
+/home/airton/git/udemy/ficticia/backend/Api.Domain/bin/Debug/net8.0/Api.Domain.pdb
+/home/airton/git/udemy/ficticia/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.csproj.AssemblyReference.cache
+/home/airton/git/udemy/ficticia/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/airton/git/udemy/ficticia/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.AssemblyInfoInputs.cache
+/home/airton/git/udemy/ficticia/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.AssemblyInfo.cs
+/home/airton/git/udemy/ficticia/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.csproj.CoreCompileInputs.cache
+/home/airton/git/udemy/ficticia/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.dll
+/home/airton/git/udemy/ficticia/backend/Api.Domain/obj/Debug/net8.0/refint/Api.Domain.dll
+/home/airton/git/udemy/ficticia/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.pdb
+/home/airton/git/udemy/ficticia/backend/Api.Domain/obj/Debug/net8.0/ref/Api.Domain.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Domain/bin/Debug/net8.0/Api.Domain.deps.json
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Domain/bin/Debug/net8.0/Api.Domain.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Domain/bin/Debug/net8.0/Api.Domain.pdb
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.csproj.AssemblyReference.cache
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.AssemblyInfoInputs.cache
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.AssemblyInfo.cs
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.csproj.CoreCompileInputs.cache
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Domain/obj/Debug/net8.0/refint/Api.Domain.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.pdb
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.Domain/obj/Debug/net8.0/ref/Api.Domain.dll
+/home/airton/Desktop/Employee/backend/Api.Domain/bin/Debug/net8.0/Api.Domain.deps.json
+/home/airton/Desktop/Employee/backend/Api.Domain/bin/Debug/net8.0/Api.Domain.dll
+/home/airton/Desktop/Employee/backend/Api.Domain/bin/Debug/net8.0/Api.Domain.pdb
+/home/airton/Desktop/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.csproj.AssemblyReference.cache
+/home/airton/Desktop/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/airton/Desktop/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.AssemblyInfoInputs.cache
+/home/airton/Desktop/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.AssemblyInfo.cs
+/home/airton/Desktop/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.csproj.CoreCompileInputs.cache
+/home/airton/Desktop/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.dll
+/home/airton/Desktop/Employee/backend/Api.Domain/obj/Debug/net8.0/refint/Api.Domain.dll
+/home/airton/Desktop/Employee/backend/Api.Domain/obj/Debug/net8.0/Api.Domain.pdb
+/home/airton/Desktop/Employee/backend/Api.Domain/obj/Debug/net8.0/ref/Api.Domain.dll

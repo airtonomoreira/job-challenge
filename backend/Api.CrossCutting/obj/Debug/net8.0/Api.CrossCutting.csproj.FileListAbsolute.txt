@@ -1,0 +1,85 @@
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.deps.json
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.dll
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.pdb
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Data.dll
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Domain.dll
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Data.pdb
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Domain.pdb
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.AssemblyReference.cache
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.AssemblyInfoInputs.cache
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.AssemblyInfo.cs
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.CoreCompileInputs.cache
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.CopyComplete
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.dll
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/obj/Debug/net8.0/refint/Api.CrossCutting.dll
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.pdb
+/home/airton/git/udemy/ApiPartneringBKP/backend/Api.CrossCutting/obj/Debug/net8.0/ref/Api.CrossCutting.dll
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.deps.json
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.dll
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.pdb
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Data.dll
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Domain.dll
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Data.pdb
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Domain.pdb
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.AssemblyReference.cache
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.AssemblyInfoInputs.cache
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.AssemblyInfo.cs
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.CoreCompileInputs.cache
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.CopyComplete
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.dll
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/obj/Debug/net8.0/refint/Api.CrossCutting.dll
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.pdb
+/home/airton/git/udemy/ficticia (Copy)/backend/Api.CrossCutting/obj/Debug/net8.0/ref/Api.CrossCutting.dll
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.deps.json
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.dll
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.pdb
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Data.dll
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Domain.dll
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Data.pdb
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Domain.pdb
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.AssemblyReference.cache
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.AssemblyInfoInputs.cache
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.AssemblyInfo.cs
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.CoreCompileInputs.cache
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.CopyComplete
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.dll
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/obj/Debug/net8.0/refint/Api.CrossCutting.dll
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.pdb
+/home/airton/git/udemy/ficticia/backend/Api.CrossCutting/obj/Debug/net8.0/ref/Api.CrossCutting.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.deps.json
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.pdb
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Data.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Domain.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Data.pdb
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Domain.pdb
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.AssemblyReference.cache
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.AssemblyInfoInputs.cache
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.AssemblyInfo.cs
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.CoreCompileInputs.cache
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.CopyComplete
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/refint/Api.CrossCutting.dll
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.pdb
+/home/airton/git/FINAL K2 PARTINERING/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/ref/Api.CrossCutting.dll
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.deps.json
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.dll
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.CrossCutting.pdb
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Data.dll
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Domain.dll
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Data.pdb
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/bin/Debug/net8.0/Api.Domain.pdb
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.AssemblyReference.cache
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.GeneratedMSBuildEditorConfig.editorconfig
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.AssemblyInfoInputs.cache
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.AssemblyInfo.cs
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.CoreCompileInputs.cache
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.csproj.CopyComplete
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.dll
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/refint/Api.CrossCutting.dll
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/Api.CrossCutting.pdb
+/home/airton/Desktop/Employee/backend/Api.CrossCutting/obj/Debug/net8.0/ref/Api.CrossCutting.dll

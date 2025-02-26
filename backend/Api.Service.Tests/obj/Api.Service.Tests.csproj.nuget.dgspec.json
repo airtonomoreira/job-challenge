@@ -1,0 +1,408 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/airton/Desktop/Employee/backend/Api.Service.Tests/Api.Service.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/airton/Desktop/Employee/backend/Api.CrossCutting/Api.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/airton/Desktop/Employee/backend/Api.CrossCutting/Api.CrossCutting.csproj",
+        "projectName": "Api.CrossCutting",
+        "projectPath": "/home/airton/Desktop/Employee/backend/Api.CrossCutting/Api.CrossCutting.csproj",
+        "packagesPath": "/home/airton/.nuget/packages/",
+        "outputPath": "/home/airton/Desktop/Employee/backend/Api.CrossCutting/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/airton/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/airton/Desktop/Employee/backend/Api.Data/Api.Data.csproj": {
+                "projectPath": "/home/airton/Desktop/Employee/backend/Api.Data/Api.Data.csproj"
+              },
+              "/home/airton/Desktop/Employee/backend/Api.Domain/Api.Domain.csproj": {
+                "projectPath": "/home/airton/Desktop/Employee/backend/Api.Domain/Api.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/airton/Desktop/Employee/backend/Api.Data/Api.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/airton/Desktop/Employee/backend/Api.Data/Api.Data.csproj",
+        "projectName": "Api.Data",
+        "projectPath": "/home/airton/Desktop/Employee/backend/Api.Data/Api.Data.csproj",
+        "packagesPath": "/home/airton/.nuget/packages/",
+        "outputPath": "/home/airton/Desktop/Employee/backend/Api.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/airton/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/airton/Desktop/Employee/backend/Api.Domain/Api.Domain.csproj": {
+                "projectPath": "/home/airton/Desktop/Employee/backend/Api.Domain/Api.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "DotNetEnv": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.12, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/airton/Desktop/Employee/backend/Api.Domain/Api.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/airton/Desktop/Employee/backend/Api.Domain/Api.Domain.csproj",
+        "projectName": "Api.Domain",
+        "projectPath": "/home/airton/Desktop/Employee/backend/Api.Domain/Api.Domain.csproj",
+        "packagesPath": "/home/airton/.nuget/packages/",
+        "outputPath": "/home/airton/Desktop/Employee/backend/Api.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/airton/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/airton/Desktop/Employee/backend/Api.Service.Tests/Api.Service.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/airton/Desktop/Employee/backend/Api.Service.Tests/Api.Service.Tests.csproj",
+        "projectName": "Api.Service.Tests",
+        "projectPath": "/home/airton/Desktop/Employee/backend/Api.Service.Tests/Api.Service.Tests.csproj",
+        "packagesPath": "/home/airton/.nuget/packages/",
+        "outputPath": "/home/airton/Desktop/Employee/backend/Api.Service.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/airton/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/airton/Desktop/Employee/backend/Api.Data/Api.Data.csproj": {
+                "projectPath": "/home/airton/Desktop/Employee/backend/Api.Data/Api.Data.csproj"
+              },
+              "/home/airton/Desktop/Employee/backend/Api.Domain/Api.Domain.csproj": {
+                "projectPath": "/home/airton/Desktop/Employee/backend/Api.Domain/Api.Domain.csproj"
+              },
+              "/home/airton/Desktop/Employee/backend/Api.Service/Api.Service.csproj": {
+                "projectPath": "/home/airton/Desktop/Employee/backend/Api.Service/Api.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.9.3, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/airton/Desktop/Employee/backend/Api.Service/Api.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/airton/Desktop/Employee/backend/Api.Service/Api.Service.csproj",
+        "projectName": "Api.Service",
+        "projectPath": "/home/airton/Desktop/Employee/backend/Api.Service/Api.Service.csproj",
+        "packagesPath": "/home/airton/.nuget/packages/",
+        "outputPath": "/home/airton/Desktop/Employee/backend/Api.Service/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/airton/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/airton/Desktop/Employee/backend/Api.CrossCutting/Api.CrossCutting.csproj": {
+                "projectPath": "/home/airton/Desktop/Employee/backend/Api.CrossCutting/Api.CrossCutting.csproj"
+              },
+              "/home/airton/Desktop/Employee/backend/Api.Data/Api.Data.csproj": {
+                "projectPath": "/home/airton/Desktop/Employee/backend/Api.Data/Api.Data.csproj"
+              },
+              "/home/airton/Desktop/Employee/backend/Api.Domain/Api.Domain.csproj": {
+                "projectPath": "/home/airton/Desktop/Employee/backend/Api.Domain/Api.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/8.0.112/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

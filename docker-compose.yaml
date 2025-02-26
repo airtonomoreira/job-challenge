@@ -1,0 +1,27 @@
+version: "3.8"
+
+services:
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    environment:
+      - NEXT_PUBLIC_API_URL=http://backend:5179
+    depends_on:
+      - backend
+
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    ports:
+      - "5179:5179"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    command: ["dotnet", "run", "--urls", "http://0.0.0.0:5179"]  # Garantir que o backend escute em 0.0.0.0
+
+networks:
+  default:
+    driver: bridge

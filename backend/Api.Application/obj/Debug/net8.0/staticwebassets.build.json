@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "a0O9zp5Sw3nXQLRZd7VSrJSGDi37+EpZGFyTLBnd1r0=",
+  "Source": "Api.Application",
+  "BasePath": "_content/Api.Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Api.Application/wwwroot",
+      "Source": "Api.Application",
+      "ContentRoot": "/home/airton/Desktop/Employee/backend/Api.Application/wwwroot/",
+      "BasePath": "_content/Api.Application",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
